@@ -1,6 +1,6 @@
 情報な専門学生が学習するためのアカウントです。
 
-A learning account for information science college students.
+A learning account for information science college student.
 
 <!---
 aiueo6614/aiueo6614 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
